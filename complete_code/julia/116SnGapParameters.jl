@@ -101,29 +101,20 @@ function main()
     n,epsilons=get_parameters(A) 
     λ_sol = find_zero(
         λ -> f_lambda(λ, epsilons, Δ, n),
-        (minimum(epsilons), maximum(epsilons))
+        (minimum(epsilons)-3.0, maximum(epsilons)+3.0)
     )
     println("Calculated λ: ", λ_sol)
 
     G = cal_G(epsilons, Δ, λ_sol)
     println("Calculated G: ", G)
     println("Target n: ", n)
-    #=
-    open("116Sn_parameter.txt","w") do file
+    
+    open("116Sn_parameter0.txt","w") do file
         println(file,"Calculated Δ: ", Δ)
         println(file,"Calculated λ: ", λ_sol)
         println(file,"Calculated G: ", G)
-        println(file,"Recalculated Δ: ", reΔ)
-        println(file,"Recalculated N: ", re_N)
-        println(file,"Target n: ", n)
-        println(file,"Defference N:",differN)
     end
-    if abs(re_N - n) < 1e-6
-        println("Particle number condition satisfied!")
-    else
-        println("Discrepancy in particle number condition.")
-    end
-    =#
+    
     
 
     return nothing

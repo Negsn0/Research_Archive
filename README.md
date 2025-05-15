@@ -20,7 +20,24 @@
 
 ### プログラムファイル
 
-- `SnEnergyLevels.jl`: Sn 同位体のエネルギー準位計算プログラム
+- `complete_code/julia/SnEnergyLevels.jl`: Sn 同位体のエネルギー準位計算プログラム
+
+  - Woods-Saxon ポテンシャルによる単粒子エネルギー計算
+  - 陽子・中性子の基底状態の生成
+  - エネルギー固有値計算と波動関数の解析
+  - 結果の可視化（エネルギー準位図）とデータ出力
+
+- `complete_code/julia/SnGapParameters.jl`: Sn 同位体のギャップパラメータ計算プログラム
+
+  - 任意の質量数に対応した計算が可能
+  - 広範な数値解探索による物理的に適切な解の導出
+  - プロット機能による質量数依存性などの解析機能を実装
+  - λ や G パラメータの系統的な解析が可能
+
+- `complete_code/julia/116SnGapParameters.jl`: A=116 に特化したギャップパラメータ計算プログラム
+  - `SnGapParameters.jl`の簡易版
+  - 動作確認やテスト用として使用
+  - 研究目的での使用は`SnGapParameters.jl`を推奨
 
 ### 論文・ドキュメント
 
