@@ -60,7 +60,7 @@
 
     \begin{column}[T]{0.55\linewidth}
       \centering
-      \includegraphics[width=0.9\textwidth]{Comp_pt.pdf}
+      \includegraphics[width=0.9\textwidth]{fig_pdf/Comp_pt.pdf}
       \vspace{5pt}
       \scriptsize \\図1: 各ポテンシャルの比較
     \end{column}
@@ -78,7 +78,7 @@
       \[
       T_{\text{HO}} = \hbar \omega \left( 2n + l + \frac{3}{2} \right)\quad:\hbar\omega=41/A^{-1/3}
       \]
-    \item ポテンシャル項：
+    \item ポテンショル項：
       \[
       U(r) = u_0 f(r) + u_{ls} r_0^2 \frac{1}{r} \frac{df(r)}{dr} \boldsymbol{l} \cdot \boldsymbol{s}
       + U_{\text{Coul}}(r) \frac{1 - \tau}{2}-\frac{1}{2}M\omega^2r^2
@@ -213,7 +213,7 @@
 \begin{frame}{ポテンシャルパラメータと波動関数}
   \begin{itemize}
     \item 波動関数は極座標調和振動子波動関数\( \psi_{nlj}\)を採用する。
-    \item ポテンシャルパラメータ \( u_{0}, u_{ls} \) を設定し、ポテンシャルを決定する。
+    \item ポテンショルパラメータ \( u_{0}, u_{ls} \) を設定し、ポテンシャルを決定する。
     \item パラメータ：
       \begin{align}
         r_0 &= 1.27,\quad R = r_0 A^{1/3},\quad a = 0.67 \quad [\text{fm}] \\
@@ -245,7 +245,7 @@
         %体積項、表面積項、対称項、クーロン項、偶奇項
         \end{align*}
     \end{itemize}
-    \column{0.4\textwidth} % 右カラム
+    \column{0.3\textwidth} % 右カラム
     \begin{tabular}{c|c}
       Parameter & Value \\ \hline
       \( a_v \) & 15.56 \\
@@ -290,9 +290,12 @@
   \begin{itemize}
     \item 温度変化に対するエネルギー期待値：
       \[
-      \langle H -\lambda N\rangle = \sum_{k>0} \frac{\epsilon_k - \lambda}{2}\left[
+      \begin{split}
+      \langle H -\lambda N\rangle = \sum_{k>0} \frac{\epsilon_k - \lambda}{2}&\left[
         1 - \frac{\epsilon_k - \lambda}{E_k}\tanh\left(\frac{E_k}{2T}\right)
-        \right] - \frac{\Delta^2}{G},
+        \right] \\
+        &- \frac{\Delta^2}{G},
+      \end{split}
       \]
       \[
         E_k = \sqrt{(\epsilon_k - \lambda)^2 + \Delta^2}.
@@ -307,17 +310,10 @@
 
 
 \section{計算結果}
-% \begin{frame}{中性子単粒子エネルギー}
-%   \centering
-%   \includegraphics[width=0.55\textwidth]{Energy_vs_A.pdf}
-%   \vspace{5pt} % キャプションと画像の間隔調整
-%   \\
-%   \scriptsize 図2: エネルギー準位と核子数$A$
-% \end{frame}
 
 \begin{frame}{$\Delta$の質量数依存性}
   \centering
-  \includegraphics[width=0.5\textwidth]{Delta_vs_A.pdf}
+  \includegraphics[width=0.5\textwidth]{fig_pdf/Delta_vs_A.pdf}
   \vspace{5pt} % キャプションと画像の間隔調整
   \\
   \scriptsize 図3: $\Delta$と核子数$A$\\
@@ -337,7 +333,7 @@
 
     \begin{column}[T]{0.6\linewidth}
       \centering
-      \includegraphics[width=\textwidth]{Comp_FT_dT.pdf}
+      \includegraphics[width=\textwidth]{fig_pdf/Comp_FT_dT.pdf}
       \vspace{5pt} % キャプションと画像の間隔調整
       \scriptsize 図4: pairing gapの温度変化
   \end{column}
@@ -346,19 +342,19 @@
 
 \begin{frame}{エネルギーと比熱の温度依存性}
   \begin{columns}[totalwidth=1.0\linewidth]
-    \begin{column}[T]{0.5\linewidth}
+    \begin{column}[T]{0.48\linewidth}
       \centering
-      \includegraphics[width=\textwidth]{Comp_FT_H.pdf}
-      \vspace{5pt} % キャプションと画像の間隔調整
+      \includegraphics[width=\textwidth]{fig_pdf/Comp_FT_H.pdf}
+      \vspace{5pt}
       \scriptsize 図5: エネルギー期待値の温度変化
     \end{column}
 
-  \begin{column}[T]{0.5\linewidth}
-    \centering
-    \includegraphics[width=\textwidth]{Comp_FT_C.pdf}
-    \vspace{5pt} % キャプションと画像の間隔調整
-    \scriptsize 図6: 比熱の温度変化
-  \end{column}
+    \begin{column}[T]{0.48\linewidth}
+      \centering
+      \includegraphics[width=\textwidth]{fig_pdf/Comp_FT_C.pdf}
+      \vspace{5pt}
+      \scriptsize 図6: 比熱の温度変化
+    \end{column}
   \end{columns}
 \end{frame}
 \section{結論・課題}
@@ -398,7 +394,7 @@
   \bibliography{list}
 \end{frame}
 
-\appendix
+\texorpdfstring{\appendix}{Appendix}
 
 \begin{frame}{BCS方程式の導出}
   \begin{itemize}
@@ -446,12 +442,20 @@
   \end{itemize}
 \end{frame}
 
-\begin{frame}{有限温度への拡張3/3}
+\begin{frame}{有限温度への拡張3/3 その1}
   \begin{itemize}
     \item ハミルトニアンの表式
     \[
-      H'=\sum_{k}(\epsilon_k - \lambda)a^{\dagger}_ka_k -g\sum_{kk'>0}a^{\dagger}_{k}a^{\dagger}_{\bar{k'}}a_{\bar{k'}}a_{k}
+      H'=\sum_{k}(\epsilon_k - \lambda)a^{\dagger}_ka_k
     \]
+    \[
+      -g\sum_{kk'>0}a^{\dagger}_{k}a^{\dagger}_{\bar{k'}}a_{\bar{k'}}a_{k}
+    \]
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{有限温度への拡張3/3 その2}
+  \begin{itemize}
     \item 個数演算子の期待値\( \langle a^{\dagger}_k a_k \rangle \)：
     \[
       \langle a^{\dagger}_k a_k \rangle = v_k^2 + (u_k^2 -v_k^2)f_k
@@ -463,14 +467,14 @@
   \begin{columns}[totalwidth=1.0\linewidth]
     \begin{column}[T]{0.5\linewidth}
       \centering
-      \includegraphics[width=\textwidth]{F_vs_kT.pdf}
+      \includegraphics[width=\textwidth]{fig_pdf/F_vs_kT.pdf}
       \vspace{5pt} % キャプションと画像の間隔調整
       \scriptsize 図7: 自由エネルギーの温度変化
     \end{column}
 
   \begin{column}[T]{0.5\linewidth}
     \centering
-    \includegraphics[width=\textwidth]{S_vs_kT.pdf}
+    \includegraphics[width=\textwidth]{fig_pdf/S_vs_kT.pdf}
     \vspace{5pt} % キャプションと画像の間隔調整
     \scriptsize 図8: エントロピーの温度変化
   \end{column}
@@ -479,7 +483,7 @@
 
 \begin{frame}{他の核種における温度変化}
   \centering
-  \includegraphics[width=0.5\textwidth]{A_kT.pdf}
+  \includegraphics[width=0.5\textwidth]{fig_pdf/A_kT.pdf}
   \vspace{5pt} % キャプションと画像の間隔調整
   \\
   \scriptsize 図9: 相転移温度$k_BT_c$と核子数$A$\\
