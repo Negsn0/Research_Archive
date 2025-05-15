@@ -1,0 +1,64 @@
+# ---- LaTeX (TeX) ----
+*.aux
+*.bbl
+*.blg
+*.brf
+*.fls
+*.fdb_latexmk
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*.lof
+*.lot
+*.lol
+*.xdv
+*.pdfsync
+*.gz
+
+# latexmkやTeXstudioなどの一時ファイル
+*.dvi
+*.pdf
+*.synctex(busy)
+*.tmp
+*~
+*.bak
+
+# バックアップファイル
+*.backup
+*.bak
+*.sav
+
+# Output directory (LaTeX build)
+_build/
+out/
+build/
+
+# ---- C / C++ ----
+*.o
+*.obj
+*.so
+*.exe
+*.out
+*.a
+*.d
+*.dll
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# 自動生成された実行ファイルや中間ファイル
+a.out
+main.out
+*.log
+
+# ---- 共通 ----
+*.swp
+*.swo
+*.DS_Store
