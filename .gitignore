@@ -21,7 +21,6 @@
 
 # latexmkやTeXstudioなどの一時ファイル
 *.dvi
-*.pdf
 *.synctex(busy)
 *.tmp
 *~
@@ -62,3 +61,6 @@ main.out
 *.swp
 *.swo
 *.DS_Store
+
+# ---- フォルダ ----
+.vscode/
