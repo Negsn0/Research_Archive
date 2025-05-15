@@ -32,7 +32,6 @@
 
 ### 設定ファイル
 
-- `.vscode/`: VSCode 設定ファイル
 - `.gitignore`: Git の除外設定ファイル
 
 ## 研究内容
@@ -53,7 +52,7 @@
 
 - LaTeX (beamer クラス)
 - 図表作成: PDF 形式
-- Julia 言語
+- Julia
 - Fortran
 
 ## 参考文献
