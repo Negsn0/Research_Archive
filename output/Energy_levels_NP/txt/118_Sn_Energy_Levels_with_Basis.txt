@@ -1,0 +1,17 @@
+Energy Levels and Basis States for A=118:
+Neutron Levels (MeV):
+Energy: -39.964 MeV, Basis: (n=0, l=0, j=0.5)
+Energy: -34.518 MeV, Basis: (n=0, l=1, j=1.5)
+Energy: -33.754 MeV, Basis: (n=0, l=1, j=0.5)
+Energy: -28.285 MeV, Basis: (n=0, l=2, j=2.5)
+Energy: -26.53 MeV, Basis: (n=0, l=2, j=1.5)
+Energy: -25.466 MeV, Basis: (n=1, l=0, j=0.5)
+Energy: -21.374 MeV, Basis: (n=0, l=3, j=3.5)
+Energy: -18.371 MeV, Basis: (n=0, l=3, j=2.5)
+Energy: -17.441 MeV, Basis: (n=1, l=1, j=1.5)
+Energy: -16.331 MeV, Basis: (n=1, l=1, j=0.5)
+Energy: -14.205 MeV, Basis: (n=0, l=4, j=4.5)
+Energy: -9.713 MeV, Basis: (n=1, l=2, j=2.5)
+Energy: -9.289 MeV, Basis: (n=0, l=4, j=3.5)
+Energy: -7.77 MeV, Basis: (n=2, l=0, j=0.5)
+Energy: -7.528 MeV, Basis: (n=1, l=2, j=1.5)

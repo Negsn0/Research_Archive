@@ -1,0 +1,14 @@
+Energy Levels and Basis States for A=106:
+Neutron Levels (MeV):
+Energy: -42.556 MeV, Basis: (n=0, l=0, j=0.5)
+Energy: -36.683 MeV, Basis: (n=0, l=1, j=1.5)
+Energy: -35.792 MeV, Basis: (n=0, l=1, j=0.5)
+Energy: -30.009 MeV, Basis: (n=0, l=2, j=2.5)
+Energy: -27.966 MeV, Basis: (n=0, l=2, j=1.5)
+Energy: -26.765 MeV, Basis: (n=1, l=0, j=0.5)
+Energy: -22.734 MeV, Basis: (n=0, l=3, j=3.5)
+Energy: -19.123 MeV, Basis: (n=0, l=3, j=2.5)
+Energy: -18.595 MeV, Basis: (n=1, l=1, j=1.5)
+Energy: -17.251 MeV, Basis: (n=1, l=1, j=0.5)
+Energy: -15.015 MeV, Basis: (n=0, l=4, j=4.5)
+Energy: -10.356 MeV, Basis: (n=1, l=2, j=2.5)

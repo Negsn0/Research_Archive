@@ -1,0 +1,15 @@
+Energy Levels and Basis States for A=114:
+Neutron Levels (MeV):
+Energy: -40.761 MeV, Basis: (n=0, l=0, j=0.5)
+Energy: -35.188 MeV, Basis: (n=0, l=1, j=1.5)
+Energy: -34.385 MeV, Basis: (n=0, l=1, j=0.5)
+Energy: -28.816 MeV, Basis: (n=0, l=2, j=2.5)
+Energy: -26.911 MeV, Basis: (n=0, l=2, j=1.5)
+Energy: -25.594 MeV, Basis: (n=1, l=0, j=0.5)
+Energy: -21.796 MeV, Basis: (n=0, l=3, j=3.5)
+Energy: -18.608 MeV, Basis: (n=0, l=3, j=2.5)
+Energy: -17.8 MeV, Basis: (n=1, l=1, j=1.5)
+Energy: -16.619 MeV, Basis: (n=1, l=1, j=0.5)
+Energy: -14.454 MeV, Basis: (n=0, l=4, j=4.5)
+Energy: -9.911 MeV, Basis: (n=1, l=2, j=2.5)
+Energy: -9.278 MeV, Basis: (n=0, l=4, j=3.5)

@@ -1,0 +1,6 @@
+Calculated Δ: 1.2684691766758078
+Calculated λ: -9.441641949590851
+Calculated G: 0.15914847988606295
+Recalculated Δ: 1.2684691766758078
+Recalculated N: 16.000000000000004
+Target n: 16

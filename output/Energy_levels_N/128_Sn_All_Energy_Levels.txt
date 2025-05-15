@@ -1,0 +1,18 @@
+Energy Levels and Basis States for A=128:
+Neutron Levels (MeV):
+Energy: -38.159 MeV, Basis: (n=0, l=0, j=0.5)
+Energy: -33.033 MeV, Basis: (n=0, l=1, j=1.5)
+Energy: -32.354 MeV, Basis: (n=0, l=1, j=0.5)
+Energy: -27.118 MeV, Basis: (n=0, l=2, j=2.5)
+Energy: -25.54 MeV, Basis: (n=0, l=2, j=1.5)
+Energy: -24.45 MeV, Basis: (n=1, l=0, j=0.5)
+Energy: -20.435 MeV, Basis: (n=0, l=3, j=3.5)
+Energy: -17.832 MeV, Basis: (n=0, l=3, j=2.5)
+Energy: -16.64 MeV, Basis: (n=1, l=1, j=1.5)
+Energy: -15.682 MeV, Basis: (n=1, l=1, j=0.5)
+Energy: -13.656 MeV, Basis: (n=0, l=4, j=4.5)
+Energy: -9.311 MeV, Basis: (n=0, l=4, j=3.5)
+Energy: -9.274 MeV, Basis: (n=1, l=2, j=2.5)
+Energy: -7.4 MeV, Basis: (n=2, l=0, j=0.5)
+Energy: -7.348 MeV, Basis: (n=1, l=2, j=1.5)
+Energy: -6.355 MeV, Basis: (n=0, l=5, j=5.5)

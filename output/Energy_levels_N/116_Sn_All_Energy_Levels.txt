@@ -1,0 +1,18 @@
+Energy Levels and Basis States for A=116:
+Neutron Levels (MeV):
+Energy: -40.363 MeV, Basis: (n=0, l=0, j=0.5)
+Energy: -34.847 MeV, Basis: (n=0, l=1, j=1.5)
+Energy: -34.064 MeV, Basis: (n=0, l=1, j=0.5)
+Energy: -28.546 MeV, Basis: (n=0, l=2, j=2.5)
+Energy: -26.75 MeV, Basis: (n=0, l=2, j=1.5)
+Energy: -25.694 MeV, Basis: (n=1, l=0, j=0.5)
+Energy: -21.582 MeV, Basis: (n=0, l=3, j=3.5)
+Energy: -18.488 MeV, Basis: (n=0, l=3, j=2.5)
+Energy: -17.617 MeV, Basis: (n=1, l=1, j=1.5)
+Energy: -16.472 MeV, Basis: (n=1, l=1, j=0.5)
+Energy: -14.327 MeV, Basis: (n=0, l=4, j=4.5)
+Energy: -9.81 MeV, Basis: (n=1, l=2, j=2.5)
+Energy: -9.284 MeV, Basis: (n=0, l=4, j=3.5)
+Energy: -7.852 MeV, Basis: (n=2, l=0, j=0.5)
+Energy: -7.568 MeV, Basis: (n=1, l=2, j=1.5)
+Energy: -6.55 MeV, Basis: (n=0, l=5, j=5.5)

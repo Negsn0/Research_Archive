@@ -1,0 +1,18 @@
+Energy Levels and Basis States for A=112:
+Neutron Levels (MeV):
+Energy: -41.203 MeV, Basis: (n=0, l=0, j=0.5)
+Energy: -35.541 MeV, Basis: (n=0, l=1, j=1.5)
+Energy: -34.718 MeV, Basis: (n=0, l=1, j=0.5)
+Energy: -29.097 MeV, Basis: (n=0, l=2, j=2.5)
+Energy: -27.216 MeV, Basis: (n=0, l=2, j=1.5)
+Energy: -26.176 MeV, Basis: (n=1, l=0, j=0.5)
+Energy: -22.018 MeV, Basis: (n=0, l=3, j=3.5)
+Energy: -18.731 MeV, Basis: (n=0, l=3, j=2.5)
+Energy: -17.988 MeV, Basis: (n=1, l=1, j=1.5)
+Energy: -16.769 MeV, Basis: (n=1, l=1, j=0.5)
+Energy: -14.586 MeV, Basis: (n=0, l=4, j=4.5)
+Energy: -10.016 MeV, Basis: (n=1, l=2, j=2.5)
+Energy: -9.272 MeV, Basis: (n=0, l=4, j=3.5)
+Energy: -8.026 MeV, Basis: (n=2, l=0, j=0.5)
+Energy: -7.652 MeV, Basis: (n=1, l=2, j=1.5)
+Energy: -6.632 MeV, Basis: (n=0, l=5, j=5.5)

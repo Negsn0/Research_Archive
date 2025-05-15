@@ -1,0 +1,55 @@
+\documentclass[dvipdfmx]{standalone}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\begin{document}
+\begin{tikzpicture}
+
+% 縦軸（エネルギーのスケール）
+\draw (-0.5, -5.2) -- (-0.5, 0.5) node[above] {MeV};
+\foreach \y/\text in {0.0/{0.0}, -10.0/{-10.0}, -20.0/{-20.0}, -30.0/{-30.0}, -40.0/{-40.0}, -50.0/{-50.0}} {
+    \draw (-0.5, \y/10) -- (-0.3, \y/10) node[left] {\text\ \ \ };
+}
+
+% HOレベル（左側）
+\node[left] at (1.25, -5.2) {HO};
+\foreach \n/\y/\text in {
+    4/-8.757/{$1g, 2d, 3s$},
+    3/-17.591/{$1f, 2p$},
+    2/-26.424/{$1d, 2s$},
+    1/-35.257/{$1p$},
+    0/-44.09/{$1s$}} {
+    \node[anchor=east] at (0.5, \y/10+0.2) {\scriptsize{$N=\n$}};
+    \node[anchor=west] at (1.0, \y/10+0.2) {\scriptsize\text};
+    %横線の位置(x,y)
+    \draw (0.5, \y/10) -- (1.5, \y/10);
+}
+
+% WSレベル（右側）
+\node[right] at (3.25, -5.2) {WS};
+\foreach \name/\y/\label in {
+    1g/-12.713/58,
+    2p/-18.782/40,
+    1f/-21.829/34,
+    2s/-27.754/20,
+    1d/-30.084/18,
+    1p/-37.636/8,
+    1s/-44.09/2} {
+    \node[anchor=west] at (4.2, \y/10) {\label};
+    \draw (3, \y/10) -- (4, \y/10);
+}
+
+% 矢印（HOからWSへの接続）
+\if0
+\foreach \y in {0.0, -10.0, -20.0, -30.0, -40.0, -50.0, -60.0} {
+    \draw[->] (0.5, \y/10) -- (4, \y/10);
+}
+\fi
+
+\draw[ultra thin]
+
+
+
+\node at (2.0,0.0) {$A=100$};
+\end{tikzpicture}
+\end{document}

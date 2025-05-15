@@ -1,0 +1,18 @@
+Energy Levels and Basis States for A=126:
+Neutron Levels (MeV):
+Energy: -38.497 MeV, Basis: (n=0, l=0, j=0.5)
+Energy: -33.311 MeV, Basis: (n=0, l=1, j=1.5)
+Energy: -32.616 MeV, Basis: (n=0, l=1, j=0.5)
+Energy: -27.335 MeV, Basis: (n=0, l=2, j=2.5)
+Energy: -25.724 MeV, Basis: (n=0, l=2, j=1.5)
+Energy: -24.639 MeV, Basis: (n=1, l=0, j=0.5)
+Energy: -20.611 MeV, Basis: (n=0, l=3, j=3.5)
+Energy: -17.934 MeV, Basis: (n=0, l=3, j=2.5)
+Energy: -16.79 MeV, Basis: (n=1, l=1, j=1.5)
+Energy: -15.804 MeV, Basis: (n=1, l=1, j=0.5)
+Energy: -13.758 MeV, Basis: (n=0, l=4, j=4.5)
+Energy: -9.356 MeV, Basis: (n=1, l=2, j=2.5)
+Energy: -9.307 MeV, Basis: (n=0, l=4, j=3.5)
+Energy: -7.469 MeV, Basis: (n=2, l=0, j=0.5)
+Energy: -7.382 MeV, Basis: (n=1, l=2, j=1.5)
+Energy: -6.383 MeV, Basis: (n=0, l=5, j=5.5)

@@ -1,0 +1,18 @@
+Energy Levels and Basis States for A=132:
+Neutron Levels (MeV):
+Energy: -37.514 MeV, Basis: (n=0, l=0, j=0.5)
+Energy: -32.504 MeV, Basis: (n=0, l=1, j=1.5)
+Energy: -31.855 MeV, Basis: (n=0, l=1, j=0.5)
+Energy: -26.706 MeV, Basis: (n=0, l=2, j=2.5)
+Energy: -25.19 MeV, Basis: (n=0, l=2, j=1.5)
+Energy: -24.092 MeV, Basis: (n=1, l=0, j=0.5)
+Energy: -20.099 MeV, Basis: (n=0, l=3, j=3.5)
+Energy: -17.636 MeV, Basis: (n=0, l=3, j=2.5)
+Energy: -16.353 MeV, Basis: (n=1, l=1, j=1.5)
+Energy: -15.447 MeV, Basis: (n=1, l=1, j=0.5)
+Energy: -13.462 MeV, Basis: (n=0, l=4, j=4.5)
+Energy: -9.318 MeV, Basis: (n=0, l=4, j=3.5)
+Energy: -9.119 MeV, Basis: (n=1, l=2, j=2.5)
+Energy: -7.284 MeV, Basis: (n=1, l=2, j=1.5)
+Energy: -7.269 MeV, Basis: (n=2, l=0, j=0.5)
+Energy: -6.304 MeV, Basis: (n=0, l=5, j=5.5)

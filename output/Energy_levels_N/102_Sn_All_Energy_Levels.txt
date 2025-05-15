@@ -1,0 +1,18 @@
+Energy Levels and Basis States for A=102:
+Neutron Levels (MeV):
+Energy: -43.593 MeV, Basis: (n=0, l=0, j=0.5)
+Energy: -37.522 MeV, Basis: (n=0, l=1, j=1.5)
+Energy: -36.581 MeV, Basis: (n=0, l=1, j=0.5)
+Energy: -30.684 MeV, Basis: (n=0, l=2, j=2.5)
+Energy: -28.553 MeV, Basis: (n=0, l=2, j=1.5)
+Energy: -27.57 MeV, Basis: (n=1, l=0, j=0.5)
+Energy: -23.258 MeV, Basis: (n=0, l=3, j=3.5)
+Energy: -19.405 MeV, Basis: (n=0, l=3, j=2.5)
+Energy: -19.036 MeV, Basis: (n=1, l=1, j=1.5)
+Energy: -17.599 MeV, Basis: (n=1, l=1, j=0.5)
+Energy: -15.33 MeV, Basis: (n=0, l=4, j=4.5)
+Energy: -10.605 MeV, Basis: (n=1, l=2, j=2.5)
+Energy: -9.239 MeV, Basis: (n=0, l=4, j=3.5)
+Energy: -8.522 MeV, Basis: (n=2, l=0, j=0.5)
+Energy: -7.889 MeV, Basis: (n=1, l=2, j=1.5)
+Energy: -6.888 MeV, Basis: (n=0, l=5, j=5.5)

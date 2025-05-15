@@ -1,0 +1,15 @@
+Energy Levels and Basis States for A=108:
+Neutron Levels (MeV):
+Energy: -42.082 MeV, Basis: (n=0, l=0, j=0.5)
+Energy: -36.288 MeV, Basis: (n=0, l=1, j=1.5)
+Energy: -35.421 MeV, Basis: (n=0, l=1, j=0.5)
+Energy: -29.693 MeV, Basis: (n=0, l=2, j=2.5)
+Energy: -27.69 MeV, Basis: (n=0, l=2, j=1.5)
+Energy: -26.457 MeV, Basis: (n=1, l=0, j=0.5)
+Energy: -22.487 MeV, Basis: (n=0, l=3, j=3.5)
+Energy: -18.989 MeV, Basis: (n=0, l=3, j=2.5)
+Energy: -18.385 MeV, Basis: (n=1, l=1, j=1.5)
+Energy: -17.085 MeV, Basis: (n=1, l=1, j=0.5)
+Energy: -14.866 MeV, Basis: (n=0, l=4, j=4.5)
+Energy: -10.238 MeV, Basis: (n=1, l=2, j=2.5)
+Energy: -9.26 MeV, Basis: (n=0, l=4, j=3.5)

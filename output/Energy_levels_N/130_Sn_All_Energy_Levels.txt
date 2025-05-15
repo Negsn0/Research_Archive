@@ -1,0 +1,18 @@
+Energy Levels and Basis States for A=130:
+Neutron Levels (MeV):
+Energy: -37.831 MeV, Basis: (n=0, l=0, j=0.5)
+Energy: -32.764 MeV, Basis: (n=0, l=1, j=1.5)
+Energy: -32.101 MeV, Basis: (n=0, l=1, j=0.5)
+Energy: -26.909 MeV, Basis: (n=0, l=2, j=2.5)
+Energy: -25.362 MeV, Basis: (n=0, l=2, j=1.5)
+Energy: -24.268 MeV, Basis: (n=1, l=0, j=0.5)
+Energy: -20.264 MeV, Basis: (n=0, l=3, j=3.5)
+Energy: -17.733 MeV, Basis: (n=0, l=3, j=2.5)
+Energy: -16.494 MeV, Basis: (n=1, l=1, j=1.5)
+Energy: -15.563 MeV, Basis: (n=1, l=1, j=0.5)
+Energy: -13.557 MeV, Basis: (n=0, l=4, j=4.5)
+Energy: -9.315 MeV, Basis: (n=0, l=4, j=3.5)
+Energy: -9.195 MeV, Basis: (n=1, l=2, j=2.5)
+Energy: -7.333 MeV, Basis: (n=2, l=0, j=0.5)
+Energy: -7.315 MeV, Basis: (n=1, l=2, j=1.5)
+Energy: -6.329 MeV, Basis: (n=0, l=5, j=5.5)
