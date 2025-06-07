@@ -61,6 +61,7 @@ main.out
 *.swp
 *.swo
 *.DS_Store
+*.pdf
 
 # ---- フォルダ ----
 .vscode/
